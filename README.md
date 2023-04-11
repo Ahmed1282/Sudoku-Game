@@ -3,7 +3,7 @@ Implemented Sudko Game in C using threads
 
 For SUDOKO SOLVER AND VALIDATOR:
 
--Three functions are created to check rows, columns, and 3x3 matrix boxes of the matrix.
+-Three functions are created to check rows, columns, and 3x3 matrix boxes of the matrix. 
 -Two for loops are used in each function to check each element of the matrix.
 -An array is added to compare each element with the array to check validity.
 -Joinable threads are used to implement the SUDOKO SOLVER AND VALIDATOR.
