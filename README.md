@@ -1,5 +1,5 @@
 # Sudoku-Game
-Implemented Sudko Game in C using Multithreading, Inter-Process Communcation, Synchronization and Memory Managment
+Implemented Sudko Game in C using Multithreading, Inter-Process Communcation, Synchronization and Memory Managment.
 
 For SUDOKO SOLVER AND VALIDATOR:
 
